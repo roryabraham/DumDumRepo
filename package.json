@@ -1,0 +1,23 @@
+{
+  "name": "dumdumrepo",
+  "version": "1.0.0-0",
+  "description": "This repo is used solely for testing the git logic for https://github.com/Expensify/App CI/CD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roryabraham/DumDumRepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roryabraham/DumDumRepo/issues"
+  },
+  "homepage": "https://github.com/roryabraham/DumDumRepo#readme",
+  "dependencies": {
+    "underscore": "^1.13.6"
+  }
+}
