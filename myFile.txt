@@ -1,1 +1,3 @@
+Prepended content
 Changes from PR #6
+Appended content
