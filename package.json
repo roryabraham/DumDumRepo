@@ -1,6 +1,6 @@
 {
   "name": "dumdumrepo",
-  "version": "1.0.1-2",
+  "version": "1.0.1-3",
   "description": "This repo is used solely for testing the git logic for https://github.com/Expensify/App CI/CD.",
   "main": "index.js",
   "scripts": {
